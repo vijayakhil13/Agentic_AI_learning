@@ -1,2 +1,7 @@
 .venv/*
 langchain/.env
+.env
+langchain/.env
+
+.env
+langchain/.env
